@@ -1,0 +1,30 @@
+{
+  "name": "gems",
+  "version": "0.0.0",
+  "authors": [
+    "dni <dni.khr@gmail.com>"
+  ],
+  "description": "Gems Editor",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "gems",
+    "editor"
+  ],
+  "license": "MIT",
+  "homepage": "dnilabs.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.8",
+    "requirejs": "~2.1.20",
+    "require-less": "~0.1.5",
+    "require-cs": "~0.5.0"
+  }
+}
