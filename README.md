@@ -1,7 +1,7 @@
 # gems
  preview gem cutting shapes with d3js
 
- # deps
+# deps
 * git
 * nodejs / npm
 * bower
@@ -12,10 +12,10 @@
 brew install npm git
 npm i -g bower grunt-cli
 ```
-(homebrew)[http://brew.sh/]
+brew? http://brew.sh/
 
 
- # install
+# install
  ```sh
  git clone https://github.com/dni/gems
  cd gems
