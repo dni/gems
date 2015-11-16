@@ -7,7 +7,7 @@
 * bower
 * grunt
 
-## macosx
+## deps install macosx
 ```sh
 brew install npm git
 npm i -g bower grunt-cli
